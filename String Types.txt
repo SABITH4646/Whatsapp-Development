@@ -53,6 +53,8 @@ String Builder :
 		And it is ASynchronized .. 
 
 		It is not a thread safe . But it is a fast process.
+		
+		this is a string of all applications
 ***********************************************************************************************************************************************************
 
 
