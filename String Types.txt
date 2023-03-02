@@ -32,6 +32,8 @@ StringBuilder refName = new StringBuilder("ABC");
 When We Do
 
 	    duplicate value ----- > it Will create new memory.
+	    
+	    add video call &audio calls
 
  	    Append ---->   The memory will be shared.  // s1 = s1.append(s2)  //AutomationTool
 
